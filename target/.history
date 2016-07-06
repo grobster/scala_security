@@ -1,0 +1,9 @@
+compile
+run
+scalaSource
+compile
+run
+compile
+doc
+compile
+exit
